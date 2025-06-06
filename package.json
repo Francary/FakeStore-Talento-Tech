@@ -1,0 +1,21 @@
+{
+  "name": "fakestore-talento-tech",
+  "version": "1.0.0",
+  "description": "***PRE ENTREGA PROYECTO***",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francary/FakeStore-Talento-Tech.git"
+  },
+  "keywords": [],
+  "author": "Francary",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Francary/FakeStore-Talento-Tech/issues"
+  },
+  "homepage": "https://github.com/Francary/FakeStore-Talento-Tech#readme"
+}
